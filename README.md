@@ -1,5 +1,5 @@
 # awesome-machine-learning-jupyter-notebooks-for-colab
-A curated list of Machine Learning and Deep Learning Jupyter Notebooks ready to run in Google Colaboratory
+A curated list of Machine Learning and Deep Learning Jupyter Notebooks ready to run in Google Colaboratory. You can find the credits for the authors in the header of each Jupyter Notebook.
 
 Artificial IntelligenceI
 
