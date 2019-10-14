@@ -4,6 +4,12 @@
 
 You can find the credits for the authors in the header of each Jupyter Notebook.
 
+## Contents
+
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+- [Reinforcement Learning](#reinforcement-learning)
+
 ## Machine Learning
 
 - [Supervised Learning plots](https://www.google.com/url?q=https://colab.research.google.com/drive/1gmZWE7Tynhx1g9vzeqyaMPdO0pdwLmuJ&sa=D&ust=1571021489211000)
