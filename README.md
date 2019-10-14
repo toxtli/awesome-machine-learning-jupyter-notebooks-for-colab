@@ -83,3 +83,11 @@ You can find the credits for the authors in the header of each Jupyter Notebook.
 ## Reinforcement Learning
 
 - [Reinforcement Learning 1](https://www.google.com/url?q=https://colab.research.google.com/drive/1fgv5UWhHR7xSwZfwwltF4OFDYqtWdlQD&sa=D&ust=1571021489235000) & [2](https://www.google.com/url?q=https://colab.research.google.com/drive/14aYmND2LKtaPTW3JWS7scKGwU9baxHeE&sa=D&ust=1571021489235000) & [3](https://www.google.com/url?q=https://colab.research.google.com/drive/16Scl43smvcXGZFEGITs15_SN_7-EidZd&sa=D&ust=1571021489235000)
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
